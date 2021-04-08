@@ -1,6 +1,6 @@
 # mmn12
 
-Class homework advanced Java:
+Class homework Advanced Java coursework:
 
 Q1:
 inheritance and polimorphizm - created a tree of inheritance of animals
